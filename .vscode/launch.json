@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yangyaohui/Desktop/Code/C++(school)/Class_1/try",
+      "program": "/Users/yangyaohui/Desktop/Code/C++(school)/Class_1/try/build/Debug/outDebug"
+    }
+  ]
+}
